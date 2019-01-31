@@ -1,8 +1,8 @@
 ************************************************************
-API-based Express App
+Food2Fork API-based Express.js APP
 ************************************************************
 
-GENERAL INFORMATION 
+GENERAL INFORMATION
 ==================================================================
 #
 # Student Name: Artyom Morozov
@@ -27,8 +27,8 @@ LAUNCHING INSTRUCTIONS
 1 install node.js
 2 provide a directory to "app.js" for the console
 4 first install the dependencies in package.json by executing "npm install" in the console
-5 execute the app with "node app.js" in the console 
-6 visit any of the following in your browser 
+5 execute the app with "node app.js" in the console
+6 visit any of the following in your browser
 	http://localhost:3000/recipes.html
 	http://localhost:3000/recipes
 	http://localhost:3000/index.html
@@ -39,10 +39,10 @@ LAUNCHING INSTRUCTIONS
 GENERAL INSTRUCTIONS
 ==================================================================
 #
-# When visiting any of the URL's  provided above, 
+# When visiting any of the URL's  provided above,
 # user will see an empty page with a text field and a "submit" button
 # For recipes to be shown user needs to type the name of the ingredient and press "submit"
-# or visit 
+# or visit
 	http://localhost:3000/recipes?ingredients=Cake
 # and replace Cake with the ingredient wanted
 #
