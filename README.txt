@@ -1,5 +1,5 @@
 ************************************************************
-Food API - based Express.js APP
+Food2Fork API-based Express.js APP
 ************************************************************
 
 GENERAL INFORMATION 
