@@ -1,0 +1,80 @@
+/* an external style sheet
+
+   notice the use of c-style comments and not xhtml-style
+   comments
+   */
+
+   * {
+       box-sizing: border-box;
+   }
+
+   body {
+     margin: 0;
+     background: #e6e6e6;
+     font-family: 'Arial';
+   }
+
+   /* Style the header */
+   .header {
+       background-color: #f1f1f1;
+       padding: 20px;
+       text-align: center;
+   }
+
+   /* Create three equal columns that floats next to each other */
+   .column {
+       float: left;
+       width: 33.33%;
+       padding: 15px;
+   }
+
+   /* Clear floats after the columns */
+   .row:after {
+       content: "";
+       display: table;
+       clear: both;
+   }
+
+
+.button {
+  display: inline-block;
+  background-color: #008CBA;;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 16px;
+  padding: 12px;
+  height: 40px;
+  width: 100px;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+.button:hover  {
+  padding-right: 25px;
+  background-color: #006080;
+}
+.gallery div  {
+  text-align: center;
+}
+.gallery {
+  background-color: white;
+  border: 1px solid #ccc;
+}
+.gallery img {
+  height: 300px;
+  width:100%;
+}
+.gallery:hover {
+  border:1px solid #777;
+}
+#InputDiv {
+  display: inline-block;
+  padding: 20px;
+}
+#InputDiv p {
+  display:inline-block;
+}
+#userTextField {
+  height:35px;
+}

@@ -1,0 +1,15 @@
+{
+  "name": "assignment4",
+  "version": "1.0.0",
+  "description": "simple food server with express module",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Artyom Morozov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.4",
+    "request": "2.88.0"
+  }
+}
