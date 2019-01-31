@@ -4,7 +4,7 @@
   "description": "simple food server with express module",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "start": "node app.js"
   },
   "author": "Artyom Morozov",
   "license": "ISC",
