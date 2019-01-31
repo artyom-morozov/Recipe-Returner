@@ -29,11 +29,11 @@ LAUNCHING INSTRUCTIONS
 4 first install the dependencies in package.json by executing "npm install" in the console
 5 execute the app with "node app.js" in the console
 6 visit any of the following in your browser
-	http://localhost:3000/recipes.html
-	http://localhost:3000/recipes
-	http://localhost:3000/index.html
-	http://localhost:3000/
-	http://localhost:3000
+	https://fast-reef-73501.herokuapp.com/recipes.html
+	https://fast-reef-73501.herokuapp.com//recipes
+	https://fast-reef-73501.herokuapp.com//index.html
+	https://fast-reef-73501.herokuapp.com/:3000/
+	https://fast-reef-73501.herokuapp.com/:3000
 #
 ==================================================================
 GENERAL INSTRUCTIONS
@@ -43,7 +43,7 @@ GENERAL INSTRUCTIONS
 # user will see an empty page with a text field and a "submit" button
 # For recipes to be shown user needs to type the name of the ingredient and press "submit"
 # or visit
-	http://localhost:3000/recipes?ingredients=Cake
+	https://fast-reef-73501.herokuapp.com//recipes?ingredients=Cake
 # and replace Cake with the ingredient wanted
 #
 ==================================================================
