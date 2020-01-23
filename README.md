@@ -30,7 +30,7 @@ A full-stack web application built with Node.js, Express.js and the Food2Fork AP
  When visiting any of the URL's  provided above,
  user will see an empty page with a text field and a "submit" button
  For recipes to be shown user needs to type the name of the ingredient and press "submit"
- or visit [ this link ](https://fast-reef-73501.herokuapp.com//recipes?ingredients=Cake)
+ or visit [ this link ](https://fast-reef-73501.herokuapp.com/recipes?ingredients=Cake)
  and replace Cake with the ingredient wanted
 
 
