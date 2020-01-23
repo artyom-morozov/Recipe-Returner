@@ -1,6 +1,6 @@
 ## Recipe Returner
 
-A full-stack web application built with Node.js, Express.js Express.js and the Food2Fork API that helps users find recipes for leftover ingredients. The application allows users to search Food2Fork database for recipes by querying specific set of ingredients.
+A full-stack web application built with Node.js, Express.js and the Food2Fork API that helps users find recipes for leftover ingredients. The application allows users to search Food2Fork database for recipes by querying specific set of ingredients.
 
 ### Software Versions
 * node v8.12.0
