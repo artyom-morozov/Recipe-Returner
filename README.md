@@ -1,5 +1,7 @@
 ## Recipe Returner
 
+A full-stack web application built with Node.js, Express.js Express.js and the Food2Fork API that helps users find recipes for leftover ingredients. The application allows users to search Food2Fork database for recipes by querying specific set of ingredients.
+
 ### Software Versions
 * node v8.12.0
 * npm 6.4.1
@@ -12,9 +14,9 @@
 
 
 1. install node.js
-2. provide a directory to "app.js" for the console
-4. first install the dependencies in package.json by executing "npm install" in the console
-5. execute the app with "node app.js" in the console
+2. provide a directory to ```app.js``` for the console
+4. first install the dependencies in package.json by executing ```npm install``` in the console
+5. execute the app with ```node app.js``` in the console
 6. visit any of the following in your browser
 	- https://fast-reef-73501.herokuapp.com/recipes.html
 	- https://fast-reef-73501.herokuapp.com//recipes
